@@ -1,4 +1,4 @@
-# Copyright (C) 2024 vantage
+# Copyright (C) 2025 vantage
 # This file is distributed under the same license as the vantage package.
 msgid ""
 msgstr ""
@@ -1118,31 +1118,31 @@ msgstr ""
 msgid "Vantage Widgets"
 msgstr ""
 
-#: inc/panels.php:238
+#: inc/panels.php:223
 msgid "Wide Grey"
 msgstr ""
 
-#: inc/panels.php:284
+#: inc/panels.php:269
 msgid "Top Border Color"
 msgstr ""
 
-#: inc/panels.php:291
+#: inc/panels.php:276
 msgid "Bottom Border Color"
 msgstr ""
 
-#: inc/panels.php:298
+#: inc/panels.php:283
 msgid "Background Color"
 msgstr ""
 
-#: inc/panels.php:305
+#: inc/panels.php:290
 msgid "Background Image URL"
 msgstr ""
 
-#: inc/panels.php:312
+#: inc/panels.php:297
 msgid "Repeat Background Image"
 msgstr ""
 
-#: inc/panels.php:319
+#: inc/panels.php:304
 msgid "No Bottom Margin"
 msgstr ""
 
