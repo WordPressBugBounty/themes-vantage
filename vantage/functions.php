@@ -6,7 +6,7 @@
  *
  * @license GPL 2.0
  */
-define( 'SITEORIGIN_THEME_VERSION', '1.20.30' );
+define( 'SITEORIGIN_THEME_VERSION', '1.20.31' );
 define( 'SITEORIGIN_THEME_JS_PREFIX', '.min' );
 define( 'SITEORIGIN_THEME_CSS_PREFIX', '.min' );
 
@@ -412,13 +412,6 @@ if ( ! function_exists( 'vantage_scripts' ) ) {
 			get_template_directory_uri() . '/fontawesome/css/font-awesome.css',
 			array(),
 			'4.6.2'
-		);
-
-		wp_register_style(
-			'social-media-widget',
-			get_template_directory_uri() . '/css/social-media-widget.css',
-			array(),
-			SITEORIGIN_THEME_VERSION
 		);
 
 		if ( class_exists( 'woocommerce' ) ) {
