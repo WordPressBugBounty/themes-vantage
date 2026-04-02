@@ -1,4 +1,4 @@
-# Copyright (C) 2025 vantage
+# Copyright (C) 2026 vantage
 # This file is distributed under the same license as the vantage package.
 msgid ""
 msgstr ""
@@ -2147,8 +2147,8 @@ msgstr ""
 msgid "Post "
 msgstr ""
 
-#: parts/footer-vertical.php:31, parts/footer.php:31
-msgid "A <a href=\"%s\">SiteOrigin</a> Theme"
+#: parts/footer-vertical.php:18, parts/footer.php:18
+msgid "Theme by %s"
 msgstr ""
 
 #: parts/menu.php:60
